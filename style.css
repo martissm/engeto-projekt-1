@@ -1,0 +1,26 @@
+.title { position: relative;
+top: 90px;
+left: 204px;
+padding-left:1rem;
+letter-spacing: 0.09em; 
+color: rgb(119, 119, 172);
+}
+h2 {
+letter-spacing: 0.09em; 
+color: rgb(119, 119, 172);
+padding-left:1rem;
+background-color: rgb(219, 210, 238)
+}
+.obsah {
+position: absolute; 
+top: 150px;
+left: 198px;
+font-size:medium
+letter-spacing: 0.09em; 
+color: rgb(119, 119, 172);
+padding-left:1rem;
+font-weight: 700;
+line-height: 90%;
+}
+p {text-indent: 1em;
+}
